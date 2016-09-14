@@ -9,6 +9,8 @@
 import UIKit
 import CoreData
 
+//Praticed using CoreData with this tutorial https://www.raywenderlich.com/115695/getting-started-with-core-data-tutorial
+
 class ViewController: UIViewController, UITableViewDataSource {
 
     @IBOutlet weak var tableView: UITableView!
